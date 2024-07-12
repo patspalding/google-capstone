@@ -1,5 +1,5 @@
-# Google Data Analytics Capstone (Python)
-My Google Data Analytics Capstone project, done in a Jupyter Notebook using the pandas, numpy, scipy, and matplotlib libraries.
+# Google Data Analytics Capstone
+My Google Data Analytics Capstone project. This was first done in a Jupyter Notebook using the pandas, numpy, scipy, and matplotlib libraries, then redone in R.
 
 For this project, I vizualized data from anonymized Fitbit users over a two-month period. I compared weight and activity data for users who log their weights more than 30 times in the time period, and users who logged their weights less frequently. The dataset used in this project is available [here](https://www.kaggle.com/datasets/arashnic/fitbit).
 
